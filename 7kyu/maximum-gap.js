@@ -27,3 +27,5 @@ function maxGap (numbers){
     }
     return Math.max(...result)
   }
+
+
